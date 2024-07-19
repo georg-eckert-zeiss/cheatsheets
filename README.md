@@ -7,6 +7,7 @@ Cheat sheets for various applications.
 
 |Syntax|Description|Example|Explanation|
 |-|-|-|-|
+|**command**|name of command|**find**|command named "find"|
 |>|after|**find** > `n`|press key "n" after executing "find"|
 |`x`|key "x"|`x`|type "x" on keyboard|
 |`<pattern>`|replace|`<YourName>`| replace `<YourName>` with e.g. "Bob"|
