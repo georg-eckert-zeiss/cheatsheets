@@ -11,4 +11,3 @@ jless ([jless.io](https://www.jless.io)) is a fast and versatile JSON viewer for
 |`/<pattern>`|**find** "pattern"|
 |**find** > `n`|find next|
 |**find** > `N`|find previous|
-  
