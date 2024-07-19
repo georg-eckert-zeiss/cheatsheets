@@ -1,5 +1,4 @@
 # Cheat Sheets
 Cheat sheets for various applications.
 
-+ [jless](jless) .. versatile JSON viewer
-+ 
++ [jless](jless.md) .. versatile JSON viewer
