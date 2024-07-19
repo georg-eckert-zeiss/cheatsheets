@@ -6,8 +6,8 @@ jless ([jless.io](https://www.jless.io)) is a fast and versatile JSON viewer for
 |-|-|
 |`>`|expand|
 |`<`|collapse|
-|`ctrl+e`|expand all siblings|
-|`ctrl+c`|collapse all siblings|
+|`e`|expand all siblings|
+|`c`|collapse all siblings|
 |`/<pattern>`|**find** "pattern"|
 |**find** > `n`|find next|
 |**find** > `N`|find previous|
