@@ -5,7 +5,7 @@ jless ([jless.io](https://www.jless.io)) is a fast and versatile JSON viewer for
 |Hotkey|Description|
 |-|-|
 |`{right}`|expand|
-|`{right}`|collapse|
+|`{left}`|collapse|
 |`e`|expand all siblings|
 |`c`|collapse all siblings|
 |`/<pattern>`|**find** "pattern"|
